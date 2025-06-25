@@ -1,18 +1,81 @@
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/test) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/test) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/test) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/test) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:test) 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=200&section=header&text=HRIDAY%20SONAR&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Stack%20Enthusiast&descAlignY=51&descAlign=62"/>
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MdNobinfd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MdNobinfd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdNobinfd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi+there!+I'm+Hriday;Frontend+Developer+💻;MERN+Stack+Developer+🚀;From+Bangladesh+🇧🇩" alt="Typing SVG" />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=MdNobinfd&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/test) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/test) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/test) 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+</div>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+```js
+const hriday = {
+  name: "Hriday Sonar",
+  role: "Frontend Developer",
+  location: "Bangladesh 🇧🇩",
+  currentlyWorking: "MERN Stack Projects",
+  currentlyLearning: ["Advanced React", "Next.js", "TypeScript"],
+  askMeAbout: ["React", "Node.js", "MongoDB", "JavaScript"],
+  email: "mdhridaysonar@gmail.com",
+  portfolio: "https://phenomenal-cuchufli-fef911.netlify.app/",
+  funFact: "I love building interactive web applications! 🚀"
+};
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=hridaysonar&style=for-the-badge&color=blue" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/hridaysonar?style=for-the-badge&color=blue&labelColor=black" alt="Followers" /> <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue?style=for-the-badge" alt="Focus" /> </div>
+🛠️ Tech Stack
+Frontend
+
+
+
+
+
+
+
+Backend
+
+
+
+
+
+
+Tools & Others
+
+
+
+
+
+
+📊 GitHub Stats
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hridaysonar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridaysonar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridaysonar&theme=tokyonight&hide_border=true" width="60%" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=hridaysonar&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffeb95&area=true&hide_border=true" width="100%"/> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hridaysonar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" /> </div>
+🎯 Current Focus
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"> </div>
+js
+Copy
+Edit
+const currentGoals = {
+  🔥 building: "Modern MERN Stack Applications",
+  📚 learning: "Advanced React & Next.js Concepts",
+  🎯 mastering: "Frontend Development Best Practices",
+  🚀 exploring: "Latest Web Technologies",
+  💡 focus: "Creating User-Friendly Interfaces"
+};
+🤝 Connect With Me
+<div align="center">
+
+
+
+
+
+</div> <div align="center">
+🙏 Thanks for Visiting!
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
+Let's build something amazing together! 🚀
+
+</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=120&section=footer&animation=fadeIn"/> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=3000&color=888888&center=true&vCenter=true&width=400&lines=💻+Happy+Coding!+Keep+Building+Amazing+Things!" /> </div> ```
