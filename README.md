@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-```js
+js
 const hriday = {
   name: "Hriday Sonar",
   role: "Frontend Developer",
@@ -78,4 +78,4 @@ const currentGoals = {
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
 Let's build something amazing together! 🚀
 
-</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=120&section=footer&animation=fadeIn"/> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=3000&color=888888&center=true&vCenter=true&width=400&lines=💻+Happy+Coding!+Keep+Building+Amazing+Things!" /> </div> ```
+</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=120&section=footer&animation=fadeIn"/> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=3000&color=888888&center=true&vCenter=true&width=400&lines=💻+Happy+Coding!+Keep+Building+Amazing+Things!" /> </div>
