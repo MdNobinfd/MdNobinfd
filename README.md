@@ -30,7 +30,7 @@ When I’m not coding, I’m learning new technologies and helping aspiring deve
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mdnobin/mdnobin/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-nobin-020446338/)[<img height="75" src="https://github.com/MdNobinfd/MdNobinfd/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mohammad.nobin.581840)[<img height="75" src="https://github.com/MdNobinfd/MdNobinfd/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/)
+[<p align="center"><img height="75" src="https://github.com/MdNobinfd/MdNobinfd/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-nobin-020446338/)[<img height="75" src="https://github.com/MdNobinfd/MdNobinfd/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mohammad.nobin.581840)[<img height="75" src="https://github.com/MdNobinfd/MdNobinfd/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/)
 
 <br />
 
