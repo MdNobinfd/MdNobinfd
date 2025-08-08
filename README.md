@@ -26,29 +26,38 @@ When I’m not coding, I’m learning new technologies and helping aspiring deve
 
 ---
 
-## 🛠 Tech Stack  
+## :mailbox: Reach me out
 
-### Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br />
 
-### Backend  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
 
-### Tools & Others  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<br />
+
+## :computer: Technologies that I know
+
+<br>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+</p><br/>
 
 ---
 
