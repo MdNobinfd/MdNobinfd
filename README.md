@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=200&section=header&text=MD%20NOBIN&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Stack%20Enthusiast&descAlignY=51&descAlign=62"/>
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/animated-header.svg" alt="Md Nobin - Frontend Developer | MERN Stack Enthusiast" width="100%"/>
 </div>
 
 <div align="center">
