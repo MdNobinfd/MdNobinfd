@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/MdNobinfd/MdNobinfd/blob/main/images/Banner.png/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=350&section=header&text=MD%20NOBIN&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Stack%20Enthusiast&descAlignY=51&descAlign=62"/>
+<img height="75" src="https://github.com/MdNobinfd/MdNobinfd/blob/main/images/Banner.png">
 </div>
 
 <div align="center">
