@@ -25,6 +25,16 @@ When I’m not coding, I’m learning new technologies and helping aspiring deve
 
 <br />
 
+## 📌 Current Activities  
+
+- 🔭 I’m currently working on **MERN Stack Projects**  
+- 🌱 I’m learning **Advanced React**, **Next.js**, and **TypeScript**  
+- 💬 Ask me about **React**, **Node.js**, **MongoDB**, **JavaScript**  
+- 🎯 My goal: **Mastering Frontend Development Best Practices**  
+- ⚡ Fun fact: I love building interactive web applications!  
+
+---
+
 ## :computer: Technologies that I know
 
 <br>
@@ -49,15 +59,7 @@ When I’m not coding, I’m learning new technologies and helping aspiring deve
 
 ---
 
-## 📌 Current Activities  
 
-- 🔭 I’m currently working on **MERN Stack Projects**  
-- 🌱 I’m learning **Advanced React**, **Next.js**, and **TypeScript**  
-- 💬 Ask me about **React**, **Node.js**, **MongoDB**, **JavaScript**  
-- 🎯 My goal: **Mastering Frontend Development Best Practices**  
-- ⚡ Fun fact: I love building interactive web applications!  
-
----
 ## 📊 GitHub Stats  
 
 <div align="center">
