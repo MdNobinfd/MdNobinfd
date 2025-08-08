@@ -38,7 +38,7 @@ When I’m not coding, I’m learning new technologies and helping aspiring deve
 
 <br>
 <p align="center">
-<img src="https://github.com/mdnobin/mdnobin/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/MdNobinfd/MdNobinfd/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mdnobin/mdnobin/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mdnobin/mdnobin/blob/main/images/icons/JavaScript.png"/>
 </p>
