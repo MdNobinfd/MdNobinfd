@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/animated-header.svg" alt="Md Nobin - Frontend Developer | MERN Stack Enthusiast" width="100%"/>
+  <img src="https://media.licdn.com/dms/image/D4E16AQH8TLEHQ12_1Q/profile-displaybackgroundimage-shrink_350_1400/0/1707140956711?e=2147483647&v=beta&t=cznF07iM6llXhFjz1a5uSHH_HXxgl1jkV1KxM_FhYso" alt="Md Nobin Banner" width="100%" />
 </div>
 
 <div align="center">
