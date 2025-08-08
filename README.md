@@ -16,15 +16,6 @@ When I’m not coding, I’m learning new technologies and helping aspiring deve
 
 ---
 
-## 📌 Current Activities  
-
-- 🔭 I’m currently working on **MERN Stack Projects**  
-- 🌱 I’m learning **Advanced React**, **Next.js**, and **TypeScript**  
-- 💬 Ask me about **React**, **Node.js**, **MongoDB**, **JavaScript**  
-- 🎯 My goal: **Mastering Frontend Development Best Practices**  
-- ⚡ Fun fact: I love building interactive web applications!  
-
----
 
 ## :mailbox: Reach me out
 
@@ -72,6 +63,16 @@ When I’m not coding, I’m learning new technologies and helping aspiring deve
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnobin&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffeb95&area=true&hide_border=true" width="100%"/>
 </div>
+
+---
+
+## 📌 Current Activities  
+
+- 🔭 I’m currently working on **MERN Stack Projects**  
+- 🌱 I’m learning **Advanced React**, **Next.js**, and **TypeScript**  
+- 💬 Ask me about **React**, **Node.js**, **MongoDB**, **JavaScript**  
+- 🎯 My goal: **Mastering Frontend Development Best Practices**  
+- ⚡ Fun fact: I love building interactive web applications!  
 
 ---
 
